@@ -1,0 +1,26 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "O que é uma guerra?", "o que é uma guerra?", "O que é guerra?" ],
+            "resposta": "É um conflito armado entre duas ou mais partes que envolve o uso da violência e das forças militares para atingir objetivos específicos. Durante uma guerra, as partes envolvidas lutam entre si com o objetivo de derrotar o oponente, seja em termos territoriais, ideológicos, políticos ou outros."
+
+        },
+        {
+            "mensagens": [ "Qual o objetivo de uma guerra?", "Qual o objetivo?" ],
+            "resposta": "O objetivo de uma guerra é prevalecer sobre o oponente e alcançar a vitória. Isso pode significar defender interesses, conquistar território, impor ideologias ou obter recursos. No entanto, é importante destacar que a guerra é uma forma extrema de conflito que envolve consequências graves e humanas, e a resolução pacífica de disputas é sempre preferível."
+        },
+        {
+            "mensagens": [ "Quais são os tipos de guerra?", "Quais os tipos?" ],
+            "resposta": "Guerra com armamento usual; Guerra psicológica; Guerra econômica; Guerra radiológica, nuclear ou radioativa; Guerra biológica, bacteriológica ou virótica; Guerra cibernética, eletrônica ou informática; Guerra química."
+        },
+        {
+            "mensagens": [ "Quais foram as piores guerras?", "Quais as piores?"],
+            "resposta": "1°- Segunda Guerra mundial(1939-1945): Causou a morte de 60 a 70 milhões de pessoas. 2°- Primeira Guerra Mundial(1914-1918): Causou a morte de 15 a 20 milhões de pessoas. 3°- Segunda Guerra Sino-Japonesa(1937-1945): Causou a morte de cerca de 20 milhões de pessoas. 4°- Guerra dos Trinta Anos(1618-1648): Causou a morte de 5 a 8 milhões de pessoas. Guerra dos Cem Anos(1337-1453): Causou a morte de 5 a 8 milhões de pessoas."
+        },
+        {
+            "mensagens":["Houve conflito no Brasil?"],
+            "resposta":"Sim, a Guerra do Paraguai foi o maior conflito armado internacional ocorrido na América Latina. Foi travada entre o Paraguai e a Tríplice Aliança, composta pelo Império do Brasil, Argentina e Uruguai. Ela se estendeu de dezembro de 1864 a março de 1870."
+        }        
+        
+    ]
+}
